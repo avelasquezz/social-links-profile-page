@@ -4,12 +4,10 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ## Links
 
-- Solution URL: [Social links profile page](https://avelasquezz.github.io/social-links-profile-page/)
+- Live Site URL: [Here](https://avelasquezz.github.io/social-links-profile-page/)
 
 ## Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
 - Flexbox
 
 ## Author
