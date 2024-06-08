@@ -64,11 +64,12 @@ body {
   font-family: 'Inter';
   font-weight: 600;
   cursor: pointer;
-  transition: background-color 0.3s ease, transform 0.3s ease;
+  transition: all 0.3s ease, transform 0.3s ease;
 }
 
 .main-container .link:hover {
-  background-color: hsl(0, 0%, 28%);
+  background-color: hsl(75, 94%, 57%);
+  color:hsl(0, 0%, 12%);
   transform: translateY(-2px);
 }
 
